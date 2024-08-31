@@ -1,8 +1,8 @@
-# Binary_Classification_Problem
+# Rainfall Prediction
 ## Project Description
 This project is part of the **"Machine Learning" course** in the Data Science & Machine Learning MSc program at NTUA.
 
-As part of the current project, students are provided with a dataset and are initially required to perform exploratory data analysis (EDA) to understand its structure and characteristics. Afterward, it is needed to preprocess the given dataset appropriately. The next step involves training classifiers using this dataset to solve a binary classification problem: predicting whether it will rain the next day or not. These classifiers are also evaluated based on their performance (here: F1-Score).
+As part of the current project, students are provided with a dataset and are initially required to perform exploratory data analysis (EDA) to understand its structure and characteristics. Afterward, it is needed to preprocess the given dataset appropriately. The next step involves training classifiers using this dataset to solve a **binary classification problem**: predicting whether it will rain the next day or not. These classifiers are also evaluated based on their performance (here: F1-Score).
 
 All relevant details and steps can be found in the code.ipynb file available in this repository.
 
