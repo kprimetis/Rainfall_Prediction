@@ -1,4 +1,4 @@
-# Machine_Learning_Binary_Classification
+# Binary_Classification
 ## Project Description
 This project is part of the **"Machine Learning" course** in the Data Science & Machine Learning MSc program at NTUA.
 
